@@ -1,0 +1,76 @@
+.main1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(255, 255, 255) ;
+    height: 7em;
+    width: 55%;
+    position: absolute;
+    top: 75%;
+    left: 45%;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.left12{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left12 a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.left12 .w{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #3b5998;
+}
+.left2 .x{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+}
+.right1 .y{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:rgba(14, 147, 235, 0.808);
+    font-size: 30px;
+}
+.right2 .z{   
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    color: purple;
+}
+.left2 a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(5, 151, 115);
+}
+.right1 a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.right2 a{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+}

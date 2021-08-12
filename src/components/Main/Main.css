@@ -1,0 +1,46 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    height: 35em;
+    margin-top: 0;
+}
+
+.main .leftsub{
+    /* display: flex;
+    direction: column;
+    justify-content: space-between; */
+    width: 45%;
+    padding-left: 8em;
+    padding-top: 5em;
+    /* align-items: center; */
+    background-color: white;
+}
+
+.leftsub h1{
+    margin-top: 1em;
+    font-size: 40px;
+}
+.leftsub p{
+    color: rgb(116, 115, 115);
+}
+
+.main .right {
+    /* padding-right: 5em; */
+    display: flex;
+    width: fit-content;
+    margin-right: 10em;
+    /* width: 50%; */
+    background-color: rgb(0, 0, 0);
+}
+
+.G .g{
+    width: 10em;
+    height: 3em;
+    border-radius: 20px;
+    margin-top: 3em;
+    background-color: rgba(247, 103, 7, 0.822);
+}
+.G .hover{
+    font-size: 17px;
+    margin-right: 10px;
+}

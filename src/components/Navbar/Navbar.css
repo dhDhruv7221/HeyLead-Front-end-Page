@@ -1,0 +1,44 @@
+  
+.container{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 4em;
+}
+
+.nav .lefthead{
+    width: 40%;
+    justify-content: space-around;
+    font-family: Comic Sans MS;
+}   
+
+.lefthead .left1{
+    color: rgba(247, 103, 7, 0.822);
+}
+.nav .center{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3px;
+    width: 30%;
+
+}
+.center a{
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 10em;
+    color: rgb(116, 115, 115)
+}
+
+
+.nav .right .hover{
+    font-size: 17px;
+    margin-right: 10px;
+    background-color: blueviolet;
+}
+
+.right .d{
+    background-color: rgba(247, 103, 7, 0.822);
+    border-radius: 20px;
+}

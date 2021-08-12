@@ -1,0 +1,95 @@
+.blog{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 50em;
+}
+.blog .head{
+    display: flex;
+    margin-left: 10em;
+}
+.head h1{
+    font-size: 40px;
+}
+
+.blog .head2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.blog1 .Arrow{
+    font-size: 30px;
+    text-decoration: none;
+}
+.blog1 p{
+    font-size: 15px;
+    color: rgb(102, 97, 97);
+}
+.blog1 h4{
+    margin-top: 4px;
+    font-size: 20px;
+}
+
+.head2 .Card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 25%;
+    height: 30em;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Card1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.blog2 h4{
+    margin-top: 4px;
+    font-size: 20px;
+}
+.blog2 p{
+    font-size: 15px;
+    color: rgb(102, 97, 97);
+}
+.blog2 .Arrow{
+    font-size: 40px;
+    text-decoration: none;
+}
+.head2 .Card2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 25%;
+    height: 30em;;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Card2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.head2 .Card3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 25%;
+    height: 30em;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Card3:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.blog3 .Arrow{
+    font-size: 40px;
+    text-decoration: none;
+}
+.blog3 p{
+    font-size: 15px;
+    color: rgb(102, 97, 97);
+}
+.blog3 h4{
+    margin-top: 4px;
+    font-size: 20px;
+}

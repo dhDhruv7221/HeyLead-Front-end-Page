@@ -1,0 +1,140 @@
+.Page3{
+    display: flex;
+    flex-direction: column;
+    height: 80em;
+    background-color: whitesmoke;
+}
+.Page3 .p1{
+    display: flex;
+    margin-top: 6em;
+    margin-left: 10em;
+    margin-right: 70em;
+}
+.p1 h1{
+    font-size: 40px;
+}
+.Page3 .p2{
+    display: flex;
+    justify-content: space-around;
+    height: 67.28em;
+}
+/* Left  Section*/
+/* Left top */
+.p2 .left1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.left1 .lefttop{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 7em;
+} 
+.lefttop .lefttop1{
+    display: flex;
+    align-items: center;
+}
+.lefttop .lefttop2{
+    text-align: center;
+}
+/* left down */
+.left1 .leftdown{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 15em;
+}
+/* Center Section */
+/* Center top */
+.p2 .center1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.center1 .centertop{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 12em;
+} 
+.centertop .centertop1{
+    display: flex;
+    align-items: center;
+}
+.centertop .centertop2{
+    text-align: center;
+}
+/* center down */
+.center1 .centerdown{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 15em;
+} 
+/* Right section */
+/* Right top */
+.p2 .right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;   
+}
+.right .righttop{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 5em;
+} 
+.righttop .righttop1{
+    display: flex;
+    align-items: center;
+}
+.righttop .righttop2{
+    text-align: center;
+}
+/* Right down */
+.right .rightdown{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-top: 15em;
+}
+/* special section */
+/* Special top */
+.p2 .special{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.special .specialtop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+} 
+.specialtop .specialtop1{
+    display: flex;
+    align-items: center;
+}
+.specialtop .specialtop2{
+    text-align: center;
+}
+/* Special middle */
+.special .specialmiddle{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin-top: 8em;
+}
+/* special down */
+.special .specialdown{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8em;
+}
